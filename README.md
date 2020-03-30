@@ -25,11 +25,11 @@ when the user enters his/her name, it should display the tracking list of that u
 maintaining the order.
 
 ## Stack used
-React-Native app<br />
-Uses react-native-swipe-gestures to swipe right to left and and left to right<br />
-react-native-sortable-list to re-order the list<br />
-react-navigation for the navigation<br />
-@react-native-community/async-storage to store user's data even when the app reloads
+- React-Native app<br />
+- Uses react-native-swipe-gestures to swipe right to left and and left to right<br />
+- react-native-sortable-list to re-order the list<br />
+- react-navigation for the navigation<br />
+- @react-native-community/async-storage to store user's data even when the app reloads
 
 ## Prerequisites
 - Node > 7 and npm (Recommended: Use [nvm](https://github.com/creationix/nvm))
